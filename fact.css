@@ -23,9 +23,11 @@ body {
 }
 h1 {
     text-align: center;
-    padding-top: 20px;
-    margin-bottom: 35px;
+    padding-top: 30px;
+    margin-bottom: 10px;
     color: rgb(189, 224, 189);
+    font-weight: bolder;
+    font-size: 45px;
 }
 
 .card {
@@ -41,9 +43,17 @@ h1 {
 }
 
 .card h2 {
-    color: rgb(163, 134, 96);
+    color: rgb(146, 120, 86);
+    margin-bottom: 10px;
 }
 
+.card p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 .card img {
     display: block;
     width: 100%;
