@@ -39,11 +39,11 @@ h1 {
     overflow: hidden;
     background: rgb(222, 208, 179);
     border-radius: 16px;
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 14px 28px rgba(255, 255, 255, 0.521);
 }
 
 .card h2 {
-    color: rgb(146, 120, 86);
+    color: rgb(121, 101, 74);
     margin-bottom: 10px;
 }
 
@@ -61,7 +61,7 @@ h1 {
     object-fit: cover;
 }
 
-.card content {
-    padding: 24px;
-    border-top: 5px solid rgb(247, 151, 238);
+.card-content {
+    padding: auto;
+    border-top: 3px solid maroon;
 }
